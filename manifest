@@ -1,6 +1,6 @@
 name=Sodium
 binary=/usr/bin/sodium
-icon=/ui/icons/sodium.png
+icon=/usr/share/icons/sodium.png
 accept=*_REDOX
 accept=*.md
 accept=*.asm
